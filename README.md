@@ -1,74 +1,208 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# 💻 Portfolio Dev
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Portfólio pessoal desenvolvido com **React**, criado para apresentar meus projetos, habilidades, experiências e conhecimentos na área de desenvolvimento de software.
 
-## Available Scripts
+O projeto também funciona como um ambiente de estudo prático, onde aplico conceitos de **Front-End, componentização, responsividade, organização de código e desenvolvimento de interfaces**.
 
-In the project directory, you can run:
+---
+
+## 🚀 Tecnologias
+
+As principais tecnologias utilizadas no projeto são:
+
+* **React**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
+* **React-Bootstrap**
+* **Bootstrap**
+* **Git & GitHub**
+
+---
+
+## 📌 Objetivos do projeto
+
+Este portfólio foi desenvolvido com alguns objetivos principais:
+
+* Criar uma apresentação profissional para minha carreira como desenvolvedor;
+* Organizar e apresentar projetos acadêmicos e pessoais;
+* Praticar desenvolvimento de interfaces com React;
+* Aprimorar conhecimentos em componentização;
+* Trabalhar responsividade e experiência do usuário;
+* Experimentar novas tecnologias e conceitos de Front-End;
+* Manter um projeto em constante evolução.
+
+---
+
+## 🖥️ Estrutura do Portfólio
+
+A proposta do portfólio é reunir diferentes informações sobre minha trajetória como desenvolvedor.
+
+Entre as principais seções planejadas estão:
+
+### 🏠 Home
+
+Apresentação inicial e uma breve introdução sobre meu perfil como desenvolvedor.
+
+### 👨‍💻 Sobre mim
+
+Informações sobre minha trajetória acadêmica, interesses e objetivos profissionais.
+
+### 🛠️ Skills
+
+Tecnologias, linguagens, ferramentas e conceitos que fazem parte dos meus estudos e projetos.
+
+### 📂 Projetos
+
+Apresentação dos principais projetos desenvolvidos durante meus estudos e experiências práticas.
+
+### 🎓 Formação
+
+Informações relacionadas à minha formação acadêmica e cursos complementares.
+
+### 📬 Contato
+
+Links e formas de entrar em contato comigo, além de minhas principais redes profissionais.
+
+---
+
+## 📂 Estrutura do projeto
+
+A organização inicial do projeto segue uma estrutura baseada em componentes React:
+
+```text
+portfolio-dev/
+├── public/
+│   ├── index.html
+│   └── ...
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   └── NavBar/
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── ...
+│
+├── package.json
+├── package-lock.json
+└── README.md
+```
+
+A estrutura pode ser modificada conforme novas páginas, componentes e funcionalidades forem adicionados ao projeto.
+
+---
+
+## ⚙️ Como executar o projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/Dev-Lucius/portfolio-dev.git
+```
+
+### 2. Acesse o diretório
+
+```bash
+cd portfolio-dev
+```
+
+### 3. Instale as dependências
+
+```bash
+npm install
+```
+
+### 4. Execute o projeto
+
+```bash
+npm start
+```
+
+A aplicação estará disponível, por padrão, em:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 🧪 Scripts disponíveis
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Executa a aplicação em ambiente de desenvolvimento.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Executa os testes disponíveis no projeto.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Gera uma versão otimizada da aplicação para produção.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎨 Desenvolvimento
 
-### `npm run eject`
+Durante o desenvolvimento do projeto, estou explorando principalmente:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```text
+React
+├── Componentização
+├── Props
+├── State
+├── Hooks
+├── Eventos
+└── Organização de componentes
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Além disso, o projeto serve para praticar conceitos de:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```text
+Front-End
+├── HTML semântico
+├── CSS
+├── Responsividade
+├── Flexbox
+├── Grid
+├── Position
+├── Bootstrap
+└── UI/UX
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📈 Status do projeto
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+🚧 **Em desenvolvimento**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+O portfólio está sendo construído gradualmente e novas seções, componentes e funcionalidades serão adicionados conforme o projeto evoluir.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🔗 Links
 
-### Analyzing the Bundle Size
+* **GitHub:** [Dev-Lucius](https://github.com/Dev-Lucius)
+* **Repositório:** [portfolio-dev](https://github.com/Dev-Lucius/portfolio-dev)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📚 Aprendizados
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Este projeto faz parte da minha jornada de aprendizado em desenvolvimento de software e tem como objetivo transformar conceitos estudados em aplicações práticas.
 
-### Advanced Configuration
+A ideia é utilizar o próprio portfólio como um projeto contínuo, permitindo experimentar novas tecnologias e melhorar constantemente a qualidade do código, da interface e da experiência do usuário.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 👨‍💻 Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**Lucas Oliveira**
 
-### `npm run build` fails to minify
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-End, Front-End, bancos de dados e arquitetura de software**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# portfolio-dev
->>>>>>> 2da8df2fb63ee3d4962d10885008b527c5b23b69
+---
+
+⭐ Este projeto está em constante evolução.
