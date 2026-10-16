@@ -1,4 +1,4 @@
-# 💻 Portfolio Dev
+# Portfolio Dev
 
 Portfólio pessoal desenvolvido com **React**, criado para apresentar meus projetos, habilidades, experiências e conhecimentos na área de desenvolvimento de software.
 
@@ -6,7 +6,7 @@ O projeto também funciona como um ambiente de estudo prático, onde aplico conc
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 As principais tecnologias utilizadas no projeto são:
 
@@ -20,7 +20,7 @@ As principais tecnologias utilizadas no projeto são:
 
 ---
 
-## 📌 Objetivos do projeto
+## Objetivos do projeto
 
 Este portfólio foi desenvolvido com alguns objetivos principais:
 
@@ -34,39 +34,39 @@ Este portfólio foi desenvolvido com alguns objetivos principais:
 
 ---
 
-## 🖥️ Estrutura do Portfólio
+## Estrutura do Portfólio
 
 A proposta do portfólio é reunir diferentes informações sobre minha trajetória como desenvolvedor.
 
 Entre as principais seções planejadas estão:
 
-### 🏠 Home
+### Home
 
 Apresentação inicial e uma breve introdução sobre meu perfil como desenvolvedor.
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 Informações sobre minha trajetória acadêmica, interesses e objetivos profissionais.
 
-### 🛠️ Skills
+### Skills
 
 Tecnologias, linguagens, ferramentas e conceitos que fazem parte dos meus estudos e projetos.
 
-### 📂 Projetos
+### Projetos
 
 Apresentação dos principais projetos desenvolvidos durante meus estudos e experiências práticas.
 
-### 🎓 Formação
+### Formação
 
 Informações relacionadas à minha formação acadêmica e cursos complementares.
 
-### 📬 Contato
+### Contato
 
 Links e formas de entrar em contato comigo, além de minhas principais redes profissionais.
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 A organização inicial do projeto segue uma estrutura baseada em componentes React:
 
@@ -94,7 +94,7 @@ A estrutura pode ser modificada conforme novas páginas, componentes e funcional
 
 ---
 
-## ⚙️ Como executar o projeto
+## Como executar o projeto
 
 ### 1. Clone o repositório
 
@@ -128,7 +128,7 @@ http://localhost:3000
 
 ---
 
-## 🧪 Scripts disponíveis
+## Scripts disponíveis
 
 ### `npm start`
 
@@ -144,7 +144,7 @@ Gera uma versão otimizada da aplicação para produção.
 
 ---
 
-## 🎨 Desenvolvimento
+## Desenvolvimento
 
 Durante o desenvolvimento do projeto, estou explorando principalmente:
 
@@ -155,7 +155,7 @@ React
 ├── State
 ├── Hooks
 ├── Eventos
-└── Organização de componentes
+└── Organização de componentesString
 ```
 
 Além disso, o projeto serve para praticar conceitos de:
@@ -174,22 +174,22 @@ Front-End
 
 ---
 
-## 📈 Status do projeto
+## Status do projeto
 
-🚧 **Em desenvolvimento**
+- **Em desenvolvimento**
 
 O portfólio está sendo construído gradualmente e novas seções, componentes e funcionalidades serão adicionados conforme o projeto evoluir.
 
 ---
 
-## 🔗 Links
+## Links
 
 * **GitHub:** [Dev-Lucius](https://github.com/Dev-Lucius)
 * **Repositório:** [portfolio-dev](https://github.com/Dev-Lucius/portfolio-dev)
 
 ---
 
-## 📚 Aprendizados
+## Aprendizados
 
 Este projeto faz parte da minha jornada de aprendizado em desenvolvimento de software e tem como objetivo transformar conceitos estudados em aplicações práticas.
 
@@ -197,7 +197,7 @@ A ideia é utilizar o próprio portfólio como um projeto contínuo, permitindo 
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Lucas Oliveira**
 
@@ -205,4 +205,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvim
 
 ---
 
-⭐ Este projeto está em constante evolução.
+- Este projeto está em constante evolução.
